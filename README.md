@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/1X0oeuiC)
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
@@ -84,3 +85,6 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+## Tarea CSS: Platos y comidas
+![Captura de pantalla de la tarea](img/Tarea.png)
