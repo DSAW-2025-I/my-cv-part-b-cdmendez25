@@ -85,3 +85,6 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+## Tarea CSS: Platos y comidas
+![Captura de pantalla de la tarea](img/Tarea.png)
